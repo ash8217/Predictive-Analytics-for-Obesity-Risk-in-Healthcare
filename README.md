@@ -103,28 +103,3 @@ Despite their close competition, **LightGBM emerged as the most consistent perfo
 
 ---
 
-### 🧠 Strategic Impact
-
-Our comprehensive modeling framework enables:
-
-- 🎯 **Accurate risk categorization** of individuals based on lifestyle and health factors  
-- 👩‍⚕️ **Targeted interventions** for high-risk groups  
-- 📊 **Data-driven decision-making** for healthcare professionals and policymakers  
-- 🌍 **Informed public health strategies** to combat the global obesity crisis
-
-With this initiative, we are not just predicting outcomes — we're **empowering healthier communities** through precision and prevention.
-
----
-
-💡 **Enjoy exploring the project, and feel free to contribute or customize it further!**
-
----
-
-
-
-<p align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/⬅️%20Return-blue?style=for-the-badge" alt="Return Button"/>
-  </a>
-</p>
-
