@@ -3,12 +3,7 @@
 <p align="center"><em>🚑 Predicting health outcomes with cutting-edge Machine Learning — <strong>90.99% Accuracy</strong></em></p>
 
 
-<p align="center">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Anamicca23/Muli-Class-Obesity-Risk-Level-Prediction-Project-using-ML?label=last%20commit&style=for-the-badge&color=blue" />
-  <img alt="Accuracy" src="https://img.shields.io/badge/accuracy-90.99%25-brightgreen?style=for-the-badge" />
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/Anamicca23/Muli-Class-Obesity-Risk-Level-Prediction-Project-using-ML?style=for-the-badge&color=blue" />
-</p>
-<p align="center">
+
   🔍 A data-driven healthcare project to classify individuals into obesity risk levels using lifestyle patterns, clinical attributes, and behavior-driven insights.
 </p>
 
