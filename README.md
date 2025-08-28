@@ -38,8 +38,6 @@ Obesity is a pressing global health concern, with millions affected worldwide an
     - We will also conduct sensitivity analysis and interpretability assessments to understand the factors driving predictions and identify areas for improvement.
   
 
-<img src="https://www.limarp.com/wp-content/uploads/2023/02/obesity-risk-factors.png" alt="Obesity-Risk-Factors" width="1500">
-
 
 # About Obesity Risk Level Prediction-Project:
 <details>
