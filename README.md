@@ -7,21 +7,6 @@
   🔍 A data-driven healthcare project to classify individuals into obesity risk levels using lifestyle patterns, clinical attributes, and behavior-driven insights.
 </p>
 
-<p align="center">
-  <em>Built with the tools and technologies:</em>
-</p>
-
-<p align="center">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-purple?style=for-the-badge&logo=numpy" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas" />
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikit-learn" />
-  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-red?style=for-the-badge&logo=apache" />
-  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-green?style=for-the-badge" />
-</p>
-
----
 
 ## **<span style="color:red">[COMPREHENSIVE ANALYSIS AND PREDICTION OF OBESITY RISK LEVELS USING MACHINE LEARNING TECHNIQUES WITH - (90.99)% ACCURACY](https://nbviewer.org/github/Anamicca23/Obesity-Risk-Level-Prediction--Project-using-ML/blob/master/prediction-of-obesity-risk-levels-using-ml%20project-Final.ipynb)</span>**
 
